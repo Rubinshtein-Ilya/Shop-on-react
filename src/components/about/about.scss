@@ -1,0 +1,27 @@
+.about{
+    max-width: 46%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px;
+    padding-bottom: 100px;
+    &__image-container{
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    &__img{}
+    &__content{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+}
+.heading{
+    &__title{
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 35px;
+    }
+}
