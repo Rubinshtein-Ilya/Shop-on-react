@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9239ab0d.css",
+    "main.js": "/static/js/main.4d5a38e8.js",
+    "static/media/paper-1074131_1920.png": "/static/media/paper-1074131_1920.88c602093c7a9c14581c.png",
+    "static/media/Main-bg.png": "/static/media/Main-bg.160adb33a2930f8ab70b.png",
+    "static/media/71qBQnpQFYL.png": "/static/media/71qBQnpQFYL.abb45c1ba257a5364ef1.png",
+    "static/media/815O9ktyfUL.png": "/static/media/815O9ktyfUL.25d5ad4a54bdd9afbde4.png",
+    "static/media/91Ryk2gKejL.png": "/static/media/91Ryk2gKejL.7d9f028b14b6f1708735.png",
+    "static/media/Group.svg": "/static/media/Group.76cc75be6b631b1b1b1ac4bb1ff93efe.svg",
+    "static/media/Groupblack-group.svg": "/static/media/Groupblack-group.750dd53cdcf920a2a59b532c3dce1ea9.svg",
+    "static/media/Beans-logo.svg": "/static/media/Beans-logo.d8ad06a77a7f633d0c2a9736d6fb4634.svg",
+    "static/media/Beans-logo-white .svg": "/static/media/Beans-logo-white .023b976cf584c92cb61afe5c82a0d35f.svg",
+    "index.html": "/index.html",
+    "main.9239ab0d.css.map": "/static/css/main.9239ab0d.css.map",
+    "main.4d5a38e8.js.map": "/static/js/main.4d5a38e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9239ab0d.css",
+    "static/js/main.4d5a38e8.js"
+  ]
+}
